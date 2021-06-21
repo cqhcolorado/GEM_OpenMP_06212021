@@ -1,2 +1,2 @@
-# GEM_OpenMP_06212021
+# GEM-parallel-coupling
  
